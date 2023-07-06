@@ -1,8 +1,10 @@
 # Barcode Recognition using CNN
+
+
+![My Project](https://github.com/rayaneghilene/CNN_Barcode_detection/blob/main/ensea%20x%20etc_110.png)
+
+
 This repository contains code for training and using a barcode recognition model based on a custom neural network architecture.
-
-![My Project](https://github.com/rayaneghilene/CNN_Barcode_detection/blob/main/ensea%20x%20etc10.png)
-
 ## Getting Started
 To get started with the project, Clone the repository: git clone https://github.com/your-username/barcode-recognition.git
 
