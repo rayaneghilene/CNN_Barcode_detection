@@ -6,7 +6,7 @@
 
 This repository contains code for training and using a barcode recognition model based on a custom neural network architecture.
 ## Getting Started
-To get started with the project, Clone the repository: git clone https://github.com/your-username/barcode-recognition.git
+To get started with the project, Clone the repository: git clone https://github.com/rayaneghilene/CNN_Barcode_detection.git
 
 ## Model Architecture
 The barcode recognition model is based on a custom neural network architecture. The model consists of several convolutional layers followed by batch normalization and ReLU activation. Max pooling is applied after each convolutional layer to downsample the feature maps. The final output layer produces the predicted barcode number.
