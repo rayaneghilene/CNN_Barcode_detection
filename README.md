@@ -15,7 +15,7 @@ The barcode recognition model is based on a custom neural network architecture. 
 Neural Image Restoration For Decoding 1-D Barcodes Using Common Camera Phones
 Alessandro Zamberletti, Ignazio Gallo, Moreno Carullo and Elisabetta Binaghi
 Computer Vision, Imaging and Computer Graphics. Theory and Applications, Springer Berlin Heidelberg, 2011
-[Link]([http://artelab.dista.uninsubria.it/downloads/datasets/barcode/medium_barcode_1d/medium_barcode_1d.html])
+[Link](http://artelab.dista.uninsubria.it/downloads/datasets/barcode/medium_barcode_1d/medium_barcode_1d.html)
 
 
 ## Contact
