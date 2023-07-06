@@ -1,15 +1,6 @@
 # Barcode Recognition using CNN
 This repository contains code for training and using a barcode recognition model based on a custom neural network architecture.
 
-
-
-## Project Structure
-- model.py: Defines the custom model architecture for barcode recognition.
-- dataset.py: Provides functionality for loading and preprocessing the barcode dataset.
-- train.py: Script for training the barcode recognition model.
-- test.py: Script for testing the trained model on new barcode images.
-- utils.py: Contains utility functions for data processing and evaluation.
-- requirements.txt: Lists the required Python packages to run the project.
 ## Getting Started
 To get started with the project, Clone the repository: git clone https://github.com/your-username/barcode-recognition.git
 
